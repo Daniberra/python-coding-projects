@@ -84,7 +84,7 @@ def hangedman(hangman):
 
 
 def start():
-    print("Let's play hangman!")
+    print("Let's play a game of linux themed hangman!")
     while game():
         pass
     scores()
